@@ -1,3 +1,13 @@
+body{
+    background-image: url(../IMG/P1010380.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+
+
+
 .navbar.navbar-expand-lg.bg-danger{
     background-color: hwb(216 23% 9%) !important;
 }
@@ -17,4 +27,9 @@ i.fa-solid.fa-user.fa-3x:hover{
 .list-group{
     --bs-list-group-bg: transparent !important;
     --bs-list-group-border-color: transparent;
+}
+
+section.about{
+    margin-top: 50rem;
+
 }
